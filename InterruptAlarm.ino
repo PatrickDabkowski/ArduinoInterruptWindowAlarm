@@ -1,6 +1,6 @@
 #define LedR 12
 #define LedG 13
-#define Switch 7
+#define Switch 2
 
 void setup() 
 {
